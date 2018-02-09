@@ -1,5 +1,5 @@
 #
  Buildefd your say_hello method here
-def say-hello("Ruby proogrammer")
+def say-hello("Ruby programmer")
   puts "Hello #{name}!"
 end
